@@ -1,8 +1,4 @@
 {
-  "build": {
-    "type": "maven",
-    "goal": "package"
-  },
   "deploy": {
     "jarName": "target/myproject-1.0-jar-with-dependencies.jar"
   }
